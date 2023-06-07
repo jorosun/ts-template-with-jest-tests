@@ -3,5 +3,7 @@ return x + y;
 //}
 
 export function pair(str: string): Array<string> {
-  return [str];
+  let orignalString = str;
+  let newStringArray = [""];
+  return newStringArray;
 }
